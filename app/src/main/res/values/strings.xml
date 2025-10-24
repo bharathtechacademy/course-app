@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bharath Tech Academy</string>
+    
+    <!-- Header Section -->
+    <string name="course_title">Full Stack Software Testing\nwith AI Tools</string>
+    <string name="trainer_name">By Bharath Reddy</string>
+    <string name="quote">"Dreams don\'t work unless you do." - Maxwell</string>
+    
+    <!-- Attention Banner -->
+    <string name="attention_title">📱 Turn off your Mobile and Silence your distractions!</string>
+    <string name="attention_message">Invest your time wisely, distractions can wait.</string>
+    
+    <!-- Course Details -->
+    <string name="about_course">About This Course</string>
+    <string name="course_details_title">📚 Course Details</string>
+    <string name="course_details_content">Course: Full Stack Software Testing (E2E Automation for SDET)\nDuration: 120+ hrs (around 3.5 months)\nMode: Online Training (through Zoom)</string>
+    <string name="timings_title">🕒 Timings</string>
+    <string name="timings_content">Regular Sessions: 8:00 AM to 9:00 AM (Mon-Fri)\nMock Interviews: Saturday\nDemo Session: Available on request</string>
+    
+    <!-- Key Takeaways -->
+    <string name="key_takeaways_title">Key Takeaways from This Course</string>
+    <string name="key_takeaways_content">✓ Java Concepts and Advanced Java Libraries Integration\n✓ Selenium Web Automation Testing Concepts\n✓ TestNG and Cucumber BDD framework With Maven and Page Object Model\n✓ Implementation of Gen AI models, LLM\'s &amp; Copilots in Test Automation\n✓ API Testing Using Postman and New-man Test Automation\n✓ Rest-Assured API Automation Testing Concepts\n✓ Performance testing using JMeter and Integration with Java framework\n✓ Database Automation with Postgresql and JDBC Setup\n✓ Source Code Management Using Git, Azure and GitHub Repository\n✓ CI/CD Setup and Dev-ops Integration with Azure Pipelines</string>
+    
+    <!-- Contact Section -->
+    <string name="contact_title">Contact Information</string>
+    <string name="whatsapp_button">Chat on WhatsApp</string>
+    <string name="call_button">Call +91-9553220022</string>
+    <string name="email_button">Send Email</string>
+    <string name="linkedin_button">Connect on LinkedIn</string>
+    <string name="website_button">Visit Website</string>
+    <string name="thank_you">Thank You!</string>
+</resources>
